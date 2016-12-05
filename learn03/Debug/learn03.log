@@ -1,0 +1,9 @@
+﻿Build started 2016/10/23 15:13:16.
+     1>Project "C:\my_program\vs\openglLearn\learnopengl\learn03\learn03.vcxproj" on node 2 (Clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\learn03.tlog\learn03.lastbuildstate".
+     1>Done Building Project "C:\my_program\vs\openglLearn\learnopengl\learn03\learn03.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
